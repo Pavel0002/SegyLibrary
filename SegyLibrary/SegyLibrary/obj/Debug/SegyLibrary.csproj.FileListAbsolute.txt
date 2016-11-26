@@ -1,0 +1,10 @@
+C:\Users\Pavel\documents\visual studio 2013\Projects\New_segy_reading_test\SegyLibrary\bin\Debug\SegyLibrary.dll
+C:\Users\Pavel\documents\visual studio 2013\Projects\New_segy_reading_test\SegyLibrary\bin\Debug\SegyLibrary.pdb
+C:\Users\Pavel\documents\visual studio 2013\Projects\New_segy_reading_test\SegyLibrary\obj\Debug\SegyLibrary.dll
+C:\Users\Pavel\documents\visual studio 2013\Projects\New_segy_reading_test\SegyLibrary\obj\Debug\SegyLibrary.pdb
+C:\Users\Pavel\Documents\Visual Studio 2013\Projects\New_segy_reading_test\SegyLibrary\obj\Debug\SegyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\Visual Studio 2013\Projects\SegyLibrary\SegyLibrary\bin\Debug\SegyLibrary.dll
+C:\Users\Pavel\Documents\Visual Studio 2013\Projects\SegyLibrary\SegyLibrary\bin\Debug\SegyLibrary.pdb
+C:\Users\Pavel\Documents\Visual Studio 2013\Projects\SegyLibrary\SegyLibrary\obj\Debug\SegyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\Visual Studio 2013\Projects\SegyLibrary\SegyLibrary\obj\Debug\SegyLibrary.dll
+C:\Users\Pavel\Documents\Visual Studio 2013\Projects\SegyLibrary\SegyLibrary\obj\Debug\SegyLibrary.pdb

@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\Visual Studio 2013\Projects\New_segy_reading_test\SegyLibrary\bin\Release\SegyLibrary.dll
+C:\Users\Pavel\Documents\Visual Studio 2013\Projects\New_segy_reading_test\SegyLibrary\bin\Release\SegyLibrary.pdb
+C:\Users\Pavel\Documents\Visual Studio 2013\Projects\New_segy_reading_test\SegyLibrary\bin\Release\Unplugged.IbmBits.dll
+C:\Users\Pavel\Documents\Visual Studio 2013\Projects\New_segy_reading_test\SegyLibrary\obj\Release\SegyLibrary.dll
+C:\Users\Pavel\Documents\Visual Studio 2013\Projects\New_segy_reading_test\SegyLibrary\obj\Release\SegyLibrary.pdb
+C:\Users\Pavel\Documents\Visual Studio 2013\Projects\New_segy_reading_test\SegyLibrary\obj\Release\SegyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\Visual Studio 2013\Projects\SegyLibrary\SegyLibrary\bin\Release\SegyLibrary.dll
+C:\Users\Pavel\Documents\Visual Studio 2013\Projects\SegyLibrary\SegyLibrary\bin\Release\SegyLibrary.pdb
+C:\Users\Pavel\Documents\Visual Studio 2013\Projects\SegyLibrary\SegyLibrary\obj\Release\SegyLibrary.dll
+C:\Users\Pavel\Documents\Visual Studio 2013\Projects\SegyLibrary\SegyLibrary\obj\Release\SegyLibrary.pdb
+C:\Users\Pavel\Documents\Visual Studio 2013\Projects\SegyLibrary\SegyLibrary\obj\Release\SegyLibrary.csprojResolveAssemblyReference.cache

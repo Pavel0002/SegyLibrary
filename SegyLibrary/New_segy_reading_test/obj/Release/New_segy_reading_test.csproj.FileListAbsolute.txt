@@ -1,0 +1,10 @@
+C:\Users\Pavel\documents\visual studio 2013\Projects\New_segy_reading_test\New_segy_reading_test\bin\Release\New_segy_reading_test.exe.config
+C:\Users\Pavel\documents\visual studio 2013\Projects\New_segy_reading_test\New_segy_reading_test\bin\Release\New_segy_reading_test.exe
+C:\Users\Pavel\documents\visual studio 2013\Projects\New_segy_reading_test\New_segy_reading_test\bin\Release\New_segy_reading_test.pdb
+C:\Users\Pavel\documents\visual studio 2013\Projects\New_segy_reading_test\New_segy_reading_test\bin\Release\SegyLibrary.dll
+C:\Users\Pavel\documents\visual studio 2013\Projects\New_segy_reading_test\New_segy_reading_test\bin\Release\Unplugged.IbmBits.dll
+C:\Users\Pavel\documents\visual studio 2013\Projects\New_segy_reading_test\New_segy_reading_test\bin\Release\SegyLibrary.pdb
+C:\Users\Pavel\documents\visual studio 2013\Projects\New_segy_reading_test\New_segy_reading_test\obj\Release\New_segy_reading_test.exe
+C:\Users\Pavel\documents\visual studio 2013\Projects\New_segy_reading_test\New_segy_reading_test\obj\Release\New_segy_reading_test.pdb
+C:\Users\Pavel\Documents\Visual Studio 2013\Projects\New_segy_reading_test\New_segy_reading_test\bin\Release\Ude.dll
+C:\Users\Pavel\Documents\Visual Studio 2013\Projects\New_segy_reading_test\New_segy_reading_test\obj\Release\New_segy_reading_test.csprojResolveAssemblyReference.cache
