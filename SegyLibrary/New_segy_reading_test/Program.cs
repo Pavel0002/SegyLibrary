@@ -10,6 +10,7 @@ namespace SegyLibraryTest
     {
         static void Main(string[] args)
         {
+            //tracesIndexes -> traceIndexes, the same with samples!
             //добавить SampleInterval (ну и неплохо бы и остальные поля) в BinaryHeader
             //изменить short на ushort, где можно. для этого понадобится добавить функцию чтения полей, возвращающую ushort
             //сделать, чтобы читались все поля заголовков.
@@ -43,7 +44,7 @@ namespace SegyLibraryTest
             }
 
 
-            using (SegyDataStandart segyData3 = new SegyDataStandart("mysegy.sgy", 300, 1000, 100, false,
+            using (SegyDataStandard segyData3 = new SegyDataStandard("mysegy.sgy", 300, 1000, 100, false,
                     SampleFormat.IEEE))
             {
                 float[][] data = new float[1][];

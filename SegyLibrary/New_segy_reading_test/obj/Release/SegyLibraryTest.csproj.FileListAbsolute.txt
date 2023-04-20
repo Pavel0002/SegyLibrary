@@ -1,8 +1,0 @@
-C:\Users\Pavel\Documents\Visual Studio 2013\Projects\SegyLibrary\New_segy_reading_test\bin\Release\New_segy_reading_test.exe.config
-C:\Users\Pavel\Documents\Visual Studio 2013\Projects\SegyLibrary\New_segy_reading_test\obj\Release\New_segy_reading_test.exe
-C:\Users\Pavel\Documents\Visual Studio 2013\Projects\SegyLibrary\New_segy_reading_test\obj\Release\New_segy_reading_test.pdb
-C:\Users\Pavel\Documents\Visual Studio 2013\Projects\SegyLibrary\New_segy_reading_test\bin\Release\New_segy_reading_test.exe
-C:\Users\Pavel\Documents\Visual Studio 2013\Projects\SegyLibrary\New_segy_reading_test\bin\Release\New_segy_reading_test.pdb
-C:\Users\Pavel\Documents\Visual Studio 2013\Projects\SegyLibrary\New_segy_reading_test\bin\Release\SegyLibrary.dll
-C:\Users\Pavel\Documents\Visual Studio 2013\Projects\SegyLibrary\New_segy_reading_test\bin\Release\SegyLibrary.pdb
-C:\Users\Pavel\Documents\Visual Studio 2013\Projects\SegyLibrary\New_segy_reading_test\obj\Release\SegyLibraryTest.csprojResolveAssemblyReference.cache
