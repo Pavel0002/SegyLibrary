@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.IO;
 using SegyLibrary;
 
-namespace SegyInserterExtractorTest
+namespace SegySamplesExtractorInserterTest
 {
     class Program
     {
