@@ -10,7 +10,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegyLibraryTest", "New_segy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegyLibrary", "SegyLibrary\SegyLibrary.csproj", "{478D8F20-8C8E-4DE8-9724-135E8C14D03F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegySamplesExtractorInserterTest", "SegyInserterDeleterTest\SegySamplesExtractorInserterTest.csproj", "{1CDB9BE3-7EC8-4DFD-A7B9-9F4327C6244E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegySamplesExtractorInserterTest", "SegySamplesExtractorInserterTest\SegySamplesExtractorInserterTest.csproj", "{1CDB9BE3-7EC8-4DFD-A7B9-9F4327C6244E}"
 	ProjectSection(ProjectDependencies) = postProject
 		{655EC4D5-76AB-4253-88E2-356571026065} = {655EC4D5-76AB-4253-88E2-356571026065}
 	EndProjectSection

@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{1CDB9BE3-7EC8-4DFD-A7B9-9F4327C6244E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SegyInserterDeleterTest</RootNamespace>
-    <AssemblyName>SegyInserterDeleterTest</AssemblyName>
+    <RootNamespace>SegySamplesExtractorInserterTest</RootNamespace>
+    <AssemblyName>SegySamplesExtractorInserterTest</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
